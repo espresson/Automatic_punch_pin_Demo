@@ -1,8 +1,6 @@
 # self-service
 <p>本项目是基于 <b>MVVM + Jetpack</b> 设计模式和组件进行开发，主要通过无障碍服务来实现钉钉自动打卡功能，目前只适用于 MIUI 系统</p>
 
-* <a href="https://blog.csdn.net/lzw398756924/article/details/107838664">博客地址</a>
-
 ### 效果演示
 <img src="https://img-blog.csdnimg.cn/20200807155648193.gif" title="到点唤醒屏幕并解锁，启动钉钉打卡后息屏，全程无手动操作">
 <h6>(到点唤醒屏幕并解锁，启动钉钉打卡后息屏，全程无手动操作)</h6>
@@ -15,13 +13,6 @@
 <img width="200" src="readme/example_4.png"/>
 </div>
 
-### 下载地址
-<img src="https://img-blog.csdnimg.cn/20201217092751174.png">
-<a href="http://d.firim.top/dah2?release_id=5fdab3bd23389f69a5af1333">(点击跳转下载安装包)</a>
-
-### <a href="https://github.com/ziwenL/self-service/blob/master/readme/README_STEP.md#%E4%BD%BF%E7%94%A8%E9%A1%BB%E7%9F%A5">使用须知</a>
-
-### <a href="https://github.com/ziwenL/self-service/blob/master/readme/README_STEP.md#%E4%BD%BF%E7%94%A8%E6%AD%A5%E9%AA%A4">使用步骤</a>
 
 ### 功能介绍
 <ul>
@@ -89,14 +80,4 @@
 * [MMKV: An efficient, small, easy-to-use mobile key-value storage framework used in the WeChat application.](https://github.com/Tencent/MMKV)
 
 
-## 最后
-
-:star: 项目框架参考了优秀博主 [却把清梅嗅](https://blog.csdn.net/mq2553299) 的 [MVVM-Architecture](https://github.com/qingmei2/MVVM-Architecture) 并对其部分代码进行了引用.
-
-### About Me
-<ul>
-<li>
-<p>Email: ziwen.lan@foxmail.com</p>
-</li>
-</ul>
 # Automatic_punch_pin_Demo
